@@ -1,3 +1,5 @@
+// Configuration for the rmtp server
+
 const NodeMediaServer = require("node-media-server");
 
 const config = {
